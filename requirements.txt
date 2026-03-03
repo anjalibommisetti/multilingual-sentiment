@@ -5,3 +5,7 @@ pandas
 numpy
 langdetect
 python-dotenv
+flask-wtf
+flask-login
+joblib
+cryptography
