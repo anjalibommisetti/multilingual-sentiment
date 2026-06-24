@@ -29,3 +29,5 @@ secret.key
 # OS
 .DS_Store
 Thumbs.db
+.vercel
+.env*
