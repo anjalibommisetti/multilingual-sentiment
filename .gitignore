@@ -1,8 +1,31 @@
-multilingual-sentiment/
-.env
-secret.key
-database.db
+# Python
 __pycache__/
 *.pyc
-train.ft.txt
-test.ft.txt
+*.pyo
+*.pyd
+
+# Large Dataset Files
+*.ft.txt
+*.csv
+*.zip
+*.parquet
+
+# Model Files
+*.pkl
+*.pickle
+
+# Database
+*.db
+*.sqlite
+
+# Environment
+.env
+secret.key
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
