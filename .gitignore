@@ -1,0 +1,8 @@
+multilingual-sentiment/
+.env
+secret.key
+database.db
+__pycache__/
+*.pyc
+train.ft.txt
+test.ft.txt
